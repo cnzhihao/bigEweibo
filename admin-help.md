@@ -26,7 +26,7 @@ git --version
 
 第二步，克隆仓库，克隆仓库通过http进行仓库克隆，克隆地址通过下图获取：
 
-![github-repo](../github-repo.png)
+![github-repo](images/github-repo.png)
 
 选择https，复制git链接。进入终端，输入：
 
