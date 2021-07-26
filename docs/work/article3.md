@@ -1,6 +1,6 @@
 # 用一手烂牌打出奇迹
 >
->发布时间：yyyy.mm.dd hh:mm:ss
+>发布时间：yyyy.mm.dd
 
 [上一篇：现实生活就是我的游戏](/work/article2)
 

@@ -1,6 +1,6 @@
 # 领导者的智慧
 >
->发布时间：yyyy.mm.dd hh:mm:ss
+>发布时间：yyyy.mm.dd
 
 [上一篇：用一手烂牌打出奇迹](/work/article3)
 

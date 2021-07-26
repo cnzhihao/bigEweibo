@@ -1,6 +1,6 @@
 # 如何做好甲方项目经理
 >
->发布时间：yyyy.mm.dd hh:mm:ss
+>发布时间：yyyy.mm.dd
 
 [上一篇：统一思想](/work/article5)
 

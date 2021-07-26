@@ -1,6 +1,6 @@
 # 现实生活就是我的游戏 
 >
->发布时间：yyyy.mm.dd hh:mm:ss
+>发布时间：yyyy.mm.dd
 
 [上一篇：先信任，再看表现](/work/article1)
 

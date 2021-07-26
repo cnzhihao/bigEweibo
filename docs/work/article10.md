@@ -1,6 +1,6 @@
 # 企业其实跟循环系统挺像
 >
->发布时间：yyyy.mm.dd hh:mm:ss
+>发布时间：yyyy.mm.dd
 
 [上一篇：流程这东西有两种](/work/article9)
 

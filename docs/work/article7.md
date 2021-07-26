@@ -1,6 +1,6 @@
 # 你的领导为什么总是那么蠢
 
->发布时间：yyyy.mm.dd hh:mm:ss
+>发布时间：yyyy.mm.dd
 
 [上一篇：如何做好甲方项目经理](/work/article6)
 

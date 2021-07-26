@@ -1,6 +1,6 @@
 # 统一思想
 >
->发布时间：yyyy.mm.dd hh:mm:ss
+>发布时间：yyyy.mm.dd
 
 [上一篇：领导者的智慧](/work/article4)
 

@@ -1,6 +1,6 @@
 # 企业管理之关于流程、制度、计划
 >
->发布时间：yyyy.mm.dd hh:mm:ss
+>发布时间：yyyy.mm.dd
 
 [上一篇：你的领导为什么总是那么蠢](/work/article7)
 

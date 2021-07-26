@@ -1,6 +1,6 @@
 # 业务系统的报表需求
 >
->发布时间：yyyy.mm.dd hh:mm:ss
+>发布时间：yyyy.mm.dd
 
 [上一篇：企业其实跟循环系统挺像](/work/article10)
 

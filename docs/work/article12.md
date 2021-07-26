@@ -1,6 +1,6 @@
 # 如何看人
 >
->发布时间：yyyy.mm.dd hh:mm:ss
+>发布时间：yyyy.mm.dd
 
 [上一篇：业务系统管理-报表需求](/work/article11)
 
