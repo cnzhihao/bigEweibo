@@ -19,7 +19,7 @@
 
 编辑：@晕晕小朋友 @InfoVAE 
 
-[点击进入](/婚姻篇/contents-of-marriage)
+[点击进入](/marriage/contents-of-marriage)
 
 ## 职场篇   
 包含职场生存、职场关系、企业管理等内容。
@@ -28,7 +28,7 @@
 
 编辑：@✨ryw. 
 
-[点击进入](/职场篇/contents-of-work)
+[点击进入](/work/contents-of-work)
 
 ## 教育篇   
 包含育儿、学生教育、自我教育等内容。
@@ -37,7 +37,7 @@
 
 编辑：@布鲁斯蓝血 @胖三gei @仰望天空 
 
-[点击进入](/教育篇/contents-of-education)
+[点击进入](/education/contents-of-education)
 
 ## 社会篇   
 包含科学、投资、社会运作、人间观察等内容。
@@ -46,7 +46,7 @@
 
 编辑：@丁大不治 @黑啤酒 @葉木易林森 @Sensoriel @may小二姐 
 
-[点击进入](/社会篇/contents-of-social)
+[点击进入](/social/contents-of-social)
 
 当然，我们还有好多反复横跳的编辑人，例如@InfoVAE @我叫莫小年 。由于他们没有填写接龙暂时没有被统计，但是我们也要感谢他们的贡献。
 
