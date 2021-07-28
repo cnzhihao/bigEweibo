@@ -7,20 +7,7 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
-  <script>
-    function oauth() {
-      var number= $("#id").val()
-      $.ajax({
-        type:"post",
-        url:"https://wf.pub/oauth/authorize",
-        data:{
-          client_id: 268,
-          redirect_url: https://wf.pub/bigEweibo,
-          response_type: code
-        }
-      })
-    }
-  </script>
+
 </head>
 <body>
   <div id="app"></div>
@@ -34,10 +21,18 @@
   <script>
     window.$docsify = {
       loadSidebar: true,
-      notFoundPage: true
+      notFoundPage: true,
+      scrollToTop: {
+        auto: true,
+        text: '↑',
+        right: 15,
+        bottom: 15,
+        offset: 500
+      }
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <script src="//unpkg.com/docsify-scroll-to-top/dist/docsify-scroll-to-top.min.js"></script>
   <!-- wf.pub-Oauth2 -->
 </body>
 </html>
