@@ -20,6 +20,7 @@
   <!-- Docsify v4 -->
   <script>
     window.$docsify = {
+      name:'大鹅微博文章精选',
       loadSidebar: true,
       notFoundPage: true,
       scrollToTop: {
@@ -28,11 +29,20 @@
         right: 15,
         bottom: 15,
         offset: 500
+      },
+      search: {
+        paths: 'auto',
+        placeholder: '输入关键字进行搜索',
+        noData: '你来到了知识的荒原……',
+        depth: 6,
+        maxAge: 86400000, 
       }
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
   <script src="//unpkg.com/docsify-scroll-to-top/dist/docsify-scroll-to-top.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/wugenqiang/NoteBook@master/plugin/search.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/external-script.min.js"></script>
   <!-- wf.pub-Oauth2 -->
 </body>
 </html>
