@@ -196,7 +196,7 @@
 ** [提高情商的方法](/social/article101)
 ** [聪明人为什么很少成为大赢家](/social/article102)
 ** [卢瑟们总有个幻想](/social/article103)
-** [美学是感性认识还是理性认识](/social/rticle104)
+** [美学是感性认识还是理性认识](/social/article104)
 ** [第一学历](/social/article105)
 ** [xx分级标准](/social/article106)
 ** [尊重事实](/social/article107)
