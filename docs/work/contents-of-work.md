@@ -14,7 +14,7 @@
 
 [现实生活就是我的游戏](/work/article2)
 
-[用一手烂牌打出奇迹](/work/article3)
+[谈国企生存](/work/article3)
 
 [领导者的智慧](/work/article4)
 
