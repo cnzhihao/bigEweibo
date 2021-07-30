@@ -17,13 +17,6 @@
 <div class="social-share"></div>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/social-share.js/1.0.16/js/social-share.min.js"></script>
 
-评论能直接在wf.pub看到啦！
-
-<wf-comment
- data-title="大鹅微博精选"
- data-url="https://wf.pub/bigEweibo" data-description="test">
-</wf-comment>
-
 -----
 更新日志：
 
