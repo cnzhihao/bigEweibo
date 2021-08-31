@@ -103,6 +103,8 @@
 
 [与病毒共存可能和你们想象的完全不同](/social/article109)  
 
+[担心塔利班搞极端活动？还早！](/social/article118)
+
 ### 家务事
 
 [社会主义制度下的权利制衡](/social/article36)
@@ -150,6 +152,14 @@
 [城市里过剩的写字楼和综合体的未来](/social/article55)
 
 [我们做一个国家解体的思想实验](/social/article112)  
+
+[乡村：风险与机遇并存](/social/article117)
+
+[提问：大鹅怎么看三次分配?](/social/article120)
+
+[黄金时代](/social/article126)
+
+[提问：怎么看多线程工作？](/social/article127)
 
 ## 人间观察
 
@@ -221,6 +231,10 @@
 
 [娶不着媳妇别怪女生拜金](/social/article114)  
 
+[人无远虑必有近忧](/social/article116)  
+
+[小凤雅事件的微博下的评论](/social/article124)
+
 ### 阅历
 
 [人财两空](/social/article87)
@@ -247,6 +261,8 @@
 
 [我比较偏好陷入困境的民营企业](/social/article115)
 
+[日常注意两件事](/social/article119)
+
 ### 智商&情商
 
 [真正的高情商](/social/article98)
@@ -268,6 +284,14 @@
 [xx分级标准](/social/article106)
 
 [尊重事实](/social/article107)
+
+[提问：如何判断一个人？你有没有看错过人？](/social/article121)
+
+[善良的愚蠢具有最大的破坏力](/social/article122)
+
+[关于智慧](/social/article123)
+
+[蠢女人行为观察录](/social/article125)
 
 
 
