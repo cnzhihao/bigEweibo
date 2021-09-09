@@ -1,10 +1,14 @@
 # 教育篇
 
-小匠终于搞完了，不容易呀！
+施工中……
 
 ## 青少年教育
 
+
+
 ###  怎么管
+
+
 
 ####  全景图
 
@@ -31,6 +35,14 @@
 [孩子一定要离开父母而独立](/education/article9)
 
 [如何培养孩子的自信心？](/education/article10)
+
+[比学区房有用十倍的助娃学习利器](/education/article82)
+
+[劳作而不是虚度光阴是对孩子最重要的示范](/education/article83)
+
+[教育孩子的事情首先应该从家长做起](/education/article84)
+
+[小孩尖叫是探索世界吗？](/education/article85)
 
 
 
@@ -76,6 +88,8 @@
 
 [那些年，带娃踩过的坑1、2](/education/article30)
 
+[“打弟弟要趁早”，怎么管？](/education/article86)
+
 
 
 ####  其他
@@ -88,11 +102,15 @@
 
 
 
+
+
+
+
 ###  学什么
 
 
 
-####  全景图
+#### 指导方针 
 
 [让孩子学点啥](/education/article34)
 
@@ -101,6 +119,8 @@
 [早期教育该学啥？](/education/article36)
 
 [不要让孩子成全才，要顺势培养 ](/education/article37)
+
+[作业要让孩子自己来](/education/article87)
 
 
 
@@ -132,13 +152,25 @@
 
 [科普之对小朋友有用2 ](/education/article48)
 
+[3岁小朋友玩魔方？](/education/article88)
+
+[培养孩子兴趣爱好的正确方法](/education/article89)
+
+
+
+#### 其他
+
 [学习的入门级和高阶的区别](/education/article49)
 
 [如何DIY一个四轴飞行器](/education/article50)
 
 
 
-####  学区房/择校
+
+
+### 学区房/择校/专业选择
+
+
 
 [教育公平](/education/article51)
 
@@ -151,6 +183,20 @@
 [好学校是学生好](/education/article55)
 
 [孩子上寄宿式学校还是走读？](/education/article56)
+
+[根据孩子实际水平选择学校](/education/article90)
+
+[关于减轻义务教育阶段负担的看法](/education/article91)
+
+[择校](/education/article92)
+
+[教育的目标—自主学习](/education/article93)
+
+[教育界的“拨乱反正”](/education/article94)
+
+
+
+
 
 
 
@@ -202,6 +248,20 @@
 
 [不敢去行动，是目标定得不合适](/education/article73)
 
+[沮丧是因为自己太矫情？](/education/article95)
+
+[态度是能力改变的根本原因](/education/article96)
+
+[智商与努力，后者才是成功与否的决定因素](/education/article97)
+
+[多数人只是假装努力](/education/article98)
+
+[人只有在动荡中才有真正的安全](/education/article99)
+
+
+
+
+
 
 
 ### 日常进阶方法
@@ -216,6 +276,10 @@
 
 [关于编程框架](/education/article78)
 
+[大E的读书之道](/education/article100)
+
+[自学1个月python,怎么还是一头雾水？](/education/article101)
+
 
 
 ### 其他
@@ -225,6 +289,10 @@
 [科学不需要信仰](/education/article80)
 
 
+
+[勤工俭学](/education/article81)
+
+[如何减弱与父母的联系？](/education/article80)
 
 
 
